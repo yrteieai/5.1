@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E42ECDFA-6A66-42C6-ABB8-088D7209CB5C}|UnitTest1_5.1\\UnitTest1_5.1.vcxproj|C:\\Users\\Admin\\source\\repos\\5.1\\UnitTest1_5.1\\UnitTest1_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42ECDFA-6A66-42C6-ABB8-088D7209CB5C}|UnitTest1_5.1\\UnitTest1_5.1.vcxproj|solutionrelative:UnitTest1_5.1\\UnitTest1_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A728E12-1670-483B-BBD8-5F59228970B6}|5.1\\5.1.vcxproj|C:\\Users\\Admin\\source\\repos\\5.1\\5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8A728E12-1670-483B-BBD8-5F59228970B6}|5.1\\5.1.vcxproj|solutionrelative:5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1_5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\5.1\\UnitTest1_5.1\\UnitTest1_5.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1_5.1\\UnitTest1_5.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\5.1\\UnitTest1_5.1\\UnitTest1_5.1.cpp",
+              "RelativeToolTip": "UnitTest1_5.1\\UnitTest1_5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T12:00:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "5.1.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\5.1\\5.1\\5.1.cpp",
               "RelativeDocumentMoniker": "5.1\\5.1.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\5.1\\5.1\\5.1.cpp*",
-              "RelativeToolTip": "5.1\\5.1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\5.1\\5.1\\5.1.cpp",
+              "RelativeToolTip": "5.1\\5.1.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T10:00:03.802Z",
               "EditorCaption": ""
